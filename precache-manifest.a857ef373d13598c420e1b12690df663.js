@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "109f73ed82c729856cda2b048b5d6029",
+    "revision": "ed87f54b5a88530847e0582f231512ae",
     "url": "/velociti2/index.html"
   },
   {
-    "revision": "9d5e50495f02d3a9801b",
+    "revision": "794678d41a1d671aa239",
     "url": "/velociti2/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "b46ca53fd2dd6eb8d14a",
+    "revision": "56570c0e6b34d1f9d486",
     "url": "/velociti2/static/css/main.bd99e8fb.chunk.css"
   },
   {
-    "revision": "9d5e50495f02d3a9801b",
-    "url": "/velociti2/static/js/2.ee37925d.chunk.js"
+    "revision": "794678d41a1d671aa239",
+    "url": "/velociti2/static/js/2.f06533b8.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/velociti2/static/js/2.ee37925d.chunk.js.LICENSE.txt"
+    "url": "/velociti2/static/js/2.f06533b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a16977cae9c9b35209ec",
-    "url": "/velociti2/static/js/3.f2d63a20.chunk.js"
+    "revision": "86a6c9e376c59426471a",
+    "url": "/velociti2/static/js/3.12f449d4.chunk.js"
   },
   {
-    "revision": "b46ca53fd2dd6eb8d14a",
-    "url": "/velociti2/static/js/main.742076cd.chunk.js"
+    "revision": "56570c0e6b34d1f9d486",
+    "url": "/velociti2/static/js/main.25988986.chunk.js"
   },
   {
-    "revision": "44d30661cd4bb1f06ce9",
-    "url": "/velociti2/static/js/runtime-main.491e6b23.js"
+    "revision": "1bf9f6aa958cf956e197",
+    "url": "/velociti2/static/js/runtime-main.bbeb5a57.js"
   },
   {
     "revision": "d8a22ff17917d05ab8c8dbb1e4980939",
