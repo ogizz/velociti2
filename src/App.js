@@ -12,7 +12,7 @@ import React from 'react'
 //import Formpop from './components/Formpop' 
 import NavBar from './components/NavBar'
 //import NavBar2 from './components/NavBar2'
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Link, Switch } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 
 //import Services from './components/Services'
@@ -34,9 +34,9 @@ const App = () => {
         <div>
           <Switch>
 
-            <Route exact path="/" exact render={() => <Homescreen title={"This is Home Page"} />} />
-            <Route path="/vehicles" render={() => <VehiclesScreen title={"Vehicle Page"} />} />
-            <Route path="/vehicles2" component={VehiclesScreen} />
+            <Route exact path='/' component={Homescreen} />
+            <Route path='/vehicles2' render={() => <VehiclesScreen title={"Vehicle Page"} />} />
+            <Route path='/vehicles' component={VehiclesScreen} />
 
           </Switch>
         </div>

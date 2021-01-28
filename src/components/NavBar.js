@@ -103,7 +103,7 @@ function NavBar() {
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/vehicles" >
+              <NavLink href="/#/vehicles" >
                 Vehicles
               </NavLink>
             </NavItem>
