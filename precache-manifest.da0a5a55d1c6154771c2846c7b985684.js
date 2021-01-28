@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4084c423231ac8ac3305e090f0075c0",
+    "revision": "cbf94542eddbadf0ed1f2f0566957843",
     "url": "/velociti2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/velociti2/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "03f38a65b2a4870efb74",
+    "revision": "5e9839027ca941f31d1e",
     "url": "/velociti2/static/css/main.bd99e8fb.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/velociti2/static/js/3.12f449d4.chunk.js"
   },
   {
-    "revision": "03f38a65b2a4870efb74",
-    "url": "/velociti2/static/js/main.eec4a258.chunk.js"
+    "revision": "5e9839027ca941f31d1e",
+    "url": "/velociti2/static/js/main.cfadc42b.chunk.js"
   },
   {
     "revision": "1bf9f6aa958cf956e197",
