@@ -28,7 +28,7 @@ const App = () => {
   document.title = "Velociti"
   return (
 
-    <Router basename= {process.env.PUBLIC_URL} >
+    <Router basename={`${process.env.PUBLIC_URL}`}>
       <Container className="p-0" fluid={true}>
         <NavBar />
         <div>
