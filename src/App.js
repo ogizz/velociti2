@@ -28,14 +28,15 @@ const App = () => {
   document.title = "Velociti"
   return (
 
-    <Router basename={process.env.PUBLIC_URL} >
+    <Router basename={`${process.env.PUBLIC_URL}`}>
       <Container className="p-0" fluid={true}>
         <NavBar />
         <div>
           <Switch>
 
-            <Route path="/" exact render={() => <Homescreen title={"This is Home Page"} />} />
-            <Route path="/vehicles" component = {VehiclesScreen} />
+            <Route exact path="/" exact render={() => <Homescreen title={"This is Home Page"} />} />
+            <Route path="/vehicles" render={() => <VehiclesScreen title={"Vehicle Page"} />} />
+            <Route path="/vehicles2" component={VehiclesScreen} />
 
           </Switch>
         </div>
