@@ -35,7 +35,7 @@ const App = () => {
           <Switch>
 
             <Route path="/" exact render={() => <Homescreen title={"This is Home Page"} />} />
-            <Route path="/vehicles" render={() => <VehiclesScreen title={"Vehicles Page"} />} />
+            <Route path="/vehicles" render={() => <VehiclesScreen title={"Vehicle Page"} />} />
 
           </Switch>
         </div>
