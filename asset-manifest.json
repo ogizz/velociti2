@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/velociti2/static/css/main.bd99e8fb.chunk.css",
+    "main.js": "/velociti2/static/js/main.8d43553b.chunk.js",
+    "main.js.map": "/velociti2/static/js/main.8d43553b.chunk.js.map",
+    "runtime-main.js": "/velociti2/static/js/runtime-main.491e6b23.js",
+    "runtime-main.js.map": "/velociti2/static/js/runtime-main.491e6b23.js.map",
+    "static/css/2.2a86faee.chunk.css": "/velociti2/static/css/2.2a86faee.chunk.css",
+    "static/js/2.ee37925d.chunk.js": "/velociti2/static/js/2.ee37925d.chunk.js",
+    "static/js/2.ee37925d.chunk.js.map": "/velociti2/static/js/2.ee37925d.chunk.js.map",
+    "static/js/3.f2d63a20.chunk.js": "/velociti2/static/js/3.f2d63a20.chunk.js",
+    "static/js/3.f2d63a20.chunk.js.map": "/velociti2/static/js/3.f2d63a20.chunk.js.map",
+    "index.html": "/velociti2/index.html",
+    "precache-manifest.1ec5d31eed2a29aacfa64a3a828638aa.js": "/velociti2/precache-manifest.1ec5d31eed2a29aacfa64a3a828638aa.js",
+    "service-worker.js": "/velociti2/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/velociti2/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.bd99e8fb.chunk.css.map": "/velociti2/static/css/main.bd99e8fb.chunk.css.map",
+    "static/js/2.ee37925d.chunk.js.LICENSE.txt": "/velociti2/static/js/2.ee37925d.chunk.js.LICENSE.txt",
+    "static/media/backtouchdown.jpg": "/velociti2/static/media/backtouchdown.d8a22ff1.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/velociti2/static/media/clem-onojeghuo-3.ae11d928.jpg",
+    "static/media/clouds.png": "/velociti2/static/media/clouds.61c4e000.png",
+    "static/media/erik-lucatero-2.jpg": "/velociti2/static/media/erik-lucatero-2.2051e0e8.jpg",
+    "static/media/fog-low.png": "/velociti2/static/media/fog-low.7812184c.png",
+    "static/media/hondacity.jpg": "/velociti2/static/media/hondacity.fc69440e.jpg",
+    "static/media/joe-gardner-2.jpg": "/velociti2/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/logo.svg": "/velociti2/static/media/logo.06e73328.svg",
+    "static/media/paper-kit.scss?v=1.2.0": "/velociti2/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/vehicles.jpg": "/velociti2/static/media/vehicles.678f2a06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.491e6b23.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.ee37925d.chunk.js",
+    "static/css/main.bd99e8fb.chunk.css",
+    "static/js/main.8d43553b.chunk.js"
+  ]
+}
