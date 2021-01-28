@@ -49,7 +49,7 @@ function NavBar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            href="/"
+            href="/#/"
             title="Coded by Creative Tim"
           >
             TouchDown Cabs
